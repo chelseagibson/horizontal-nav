@@ -1,5 +1,5 @@
 
-html{
+html {
   background-color: #dbd6cf;
   box-sizing: border-box;
   border: 3px solid #59562;
@@ -25,6 +25,8 @@ h1 {
 ul{
   text-align: center;
   list-style-type: none;
+  border-radius: 10px;
+  display: inline-block;
 }
 
 header {
