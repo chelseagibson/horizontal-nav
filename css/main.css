@@ -6,9 +6,9 @@ html {
   line-height: 1.5;
   }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 h1 {
   color: #fff;
@@ -33,4 +33,8 @@ header {
   background-color: #79756f;
   margin: 0;
   padding: 0;
+}
+
+a.hover {
+
 }
