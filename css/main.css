@@ -1,1 +1,26 @@
 
+html{
+  background-color: #dbd6cf;
+  box-sizing: border-box;
+  border: 3px solid #59562;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  font-family: "Bevan", cursive;
+}
+
+nav{
+  text-align: center;
+
+}
+
+header {
+  background-color: #79756f;
+}
